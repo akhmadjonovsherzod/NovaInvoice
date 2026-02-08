@@ -109,8 +109,8 @@ Developed as part of the **Developing Data Handling Programs** coursework in the
 ---
 
 ## 👥 Authors
+- **Mokhichekhra Makhmudova**  
 - **Sherzodbek Akhmadjonov**  
-- **Mokhichekhra [Last Name]**  
 **BSc Business Informatics**  
 University of Debrecen
 ```
