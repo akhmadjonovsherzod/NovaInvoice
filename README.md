@@ -113,4 +113,3 @@ Developed as part of the **Developing Data Handling Programs** coursework in the
 - **Sherzodbek Akhmadjonov**  
 **BSc Business Informatics**  
 University of Debrecen
-```
